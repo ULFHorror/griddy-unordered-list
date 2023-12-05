@@ -1,2 +1,0 @@
-# griddy-unordered-list
-griddy
